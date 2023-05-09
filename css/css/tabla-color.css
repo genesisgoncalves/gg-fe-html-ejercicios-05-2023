@@ -3,9 +3,9 @@ table {
 }
 
 th {
-    border: black 1px solid;
+    background-color: blueviolet;
 }
 
 td {
-    border: black 1px solid;
+    background-color: rgb(233, 188, 243);
 }
